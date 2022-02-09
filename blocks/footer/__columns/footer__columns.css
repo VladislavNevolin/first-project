@@ -1,0 +1,7 @@
+@import url(./__column/footer__column.css);
+.footer__columns{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

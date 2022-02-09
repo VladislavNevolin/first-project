@@ -1,0 +1,11 @@
+@import url(./__author/footer__author.css);
+@import url(./__column-heading/footer__column-heading.css);
+@import url(./__column-links/footer__colunm-links.css);
+@import url(./_content/footer__column_content_copyright.css);
+@import url(./_content/footer__column_content_info.css);
+@import url(./_content/footer__column_content_social.css);
+.footer__column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

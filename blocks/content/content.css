@@ -1,0 +1,10 @@
+@import url(./description/description.css);
+@import url(./digits/digits.css);
+@import url(./kaufman/kaufman.css);
+@import url(./resources/resources.css);
+@import url(./techniques/techniques.css);
+.content{
+    display: flex;
+    flex-direction: column;
+}
+

@@ -1,0 +1,11 @@
+@import url(./__text/header__text.css);
+@import url(./__images/header__images.css);
+.header{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-height: 600px;
+    max-height: 756px;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
