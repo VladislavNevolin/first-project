@@ -3,6 +3,10 @@
 @import url(./kaufman/kaufman.css);
 @import url(./resources/resources.css);
 @import url(./techniques/techniques.css);
+@import url(./video/video.css);
+@import url(./oakley/oakley.css);
+@import url(./feynman/feynman.css);
+@import url(./khan/khan.css);
 .content{
     display: flex;
     flex-direction: column;

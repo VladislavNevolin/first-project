@@ -3,4 +3,5 @@
 @import url(../blocks/header/header.css); /* addings header styles in project*/
 @import url(../blocks/content/content.css); /* addings content styles in project*/
 @import url(../blocks/footer/footer.css); /* addings footer styles in project*/
-@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/logo.css); /* addings logos in project*/
+@import url(../blocks/animation/animation.css); /* addings animation in project*/
