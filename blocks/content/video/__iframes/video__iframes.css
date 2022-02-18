@@ -1,7 +1,0 @@
-@import url(./__iframe/video__iframe.css);
-.video__iframes{
-    margin-top: 50px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}

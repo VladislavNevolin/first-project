@@ -1,8 +1,0 @@
-@import url(./__heading/table__heading.css);
-@import url(./__text/table__text.css);
-@import url(./__twb/table__twb.css);
-
-.table__cell{
-    width: 250px;
-    margin-top: 60px;
-}
